@@ -3,7 +3,7 @@
 
 
 
-
+DATA SET : https://www.kaggle.com/datasets/ramprasad273/predicting-food-delivery-time
 
 Pre-processing was conducted through Python, and model learning was conducted through Orange
 ![image](https://user-images.githubusercontent.com/105573554/236968788-612fd74f-534e-4ff1-bb0f-b1367b7b424c.png)
